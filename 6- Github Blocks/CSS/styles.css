@@ -1,0 +1,46 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: gray;
+}
+
+.cat{
+    height: 200px;
+}
+
+.line1{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(33, 109, 133);
+    margin: 20px
+}
+
+.line2{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(126, 133, 33);
+    margin: 20px;
+}
+
+.line3{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(133, 86, 33);
+    margin: 20px
+}
+
+footer{
+    font-size: 25px;
+    color: gray;
+
+}
